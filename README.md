@@ -30,14 +30,16 @@ Este proyecto analiza datos sanitarios y demográficos de Argentina, Brasil, Chi
 ### 📊 Portada del Dashboard
 ![Portada](Portada.png)
 
+###  M-  Informe de Contagios
+![Contagios](informe_casos.png)
+
+
 ### 👥 Distribución Poblacional
 ![Distribución poblacional](Distribucion_poblacional.png)
 
 ### 💉 Informe de Vacunación
 ![Vacunación](Informe_vacunacion.png)
 
-### 🦠 Informe de Contagios
-![Contagios](informe_casos.png)
 
 ---
 
