@@ -73,4 +73,6 @@ La limpieza de datos defectuosos y la estimación de variables faltantes fueron 
 - Repositorio mantenido con **Git** y **Git LFS**
 - El dataset original fue **filtrado, limpiado y transformado** para garantizar su integridad analítica.
 - Este trabajo forma parte del **portafolio profesional de Isaac Pérez** para fines académicos y de desarrollo profesional.
+<<<<<<< HEAD
 
+=======
