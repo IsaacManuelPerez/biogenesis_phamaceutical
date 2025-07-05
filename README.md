@@ -1,3 +1,15 @@
+
+###  ~J Portada del Dashboard
+![Portada](Portada.png)
+
+###  M-% Distribución Poblacional
+![Distribución poblacional](Distribucion_poblacional.png)
+
+###  ~I Informe de Vacunación
+![Vacunación](Informe_vacunacion.png)
+
+###  M-  Informe de Contagios
+![Contagios](informe_casos.png)
 # 🌎 Expansión Estratégica de BIOGENESYS en Latinoamérica
 
 ## Análisis de Datos para Optimizar la Ubicación de Laboratorios Farmacéuticos
@@ -27,12 +39,17 @@ Este proyecto analiza datos sanitarios y demográficos de Argentina, Brasil, Chi
 
 ## 📊 Dashboard – Capturas de pantalla
 
-- **Informe general de contagios** → `Contagios`
-- **Perfil demográfico y factores de riesgo** → `Factores`
-- **Vacunación y su impacto** → `Vacunas`
-- **Navegación del informe** → `Portada`
+### 📊 Portada del Dashboard
+![Portada](Portada.png)
 
-📝 *Asegúrate de tener la carpeta `img/` con estas imágenes en tu proyecto para que se muestren correctamente.*
+### 👥 Distribución Poblacional
+![Distribución poblacional](Distribucion_poblacional.png)
+
+### 💉 Informe de Vacunación
+![Vacunación](Informe_vacunacion.png)
+
+### 🦠 Informe de Contagios
+![Contagios](informe_casos.png)
 
 ---
 
