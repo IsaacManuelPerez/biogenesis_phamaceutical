@@ -1,15 +1,3 @@
-
-###  ~J Portada del Dashboard
-![Portada](Portada.png)
-
-###  M-% Distribución Poblacional
-![Distribución poblacional](Distribucion_poblacional.png)
-
-###  ~I Informe de Vacunación
-![Vacunación](Informe_vacunacion.png)
-
-###  M-  Informe de Contagios
-![Contagios](informe_casos.png)
 # 🌎 Expansión Estratégica de BIOGENESYS en Latinoamérica
 
 ## Análisis de Datos para Optimizar la Ubicación de Laboratorios Farmacéuticos
