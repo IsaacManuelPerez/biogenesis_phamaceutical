@@ -1,4 +1,4 @@
-# 🌎 Expansión Estratégica de BIOGENESYS en Latinoamérica
+ 🌎 Expansión Estratégica de BIOGENESYS en Latinoamérica
 
 ## Análisis de Datos para Optimizar la Ubicación de Laboratorios Farmacéuticos
 
